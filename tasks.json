@@ -1,0 +1,7 @@
+[
+    {"name": "Background Sync", "priority": 1, "power": 0.2, "probability": 0.05},
+    {"name": "Email Check", "priority": 2, "power": 0.5, "probability": 0.10},
+    {"name": "Web Browse", "priority": 3, "power": 1.5, "probability": 0.15},
+    {"name": "Video Streaming", "priority": 4, "power": 2.5, "probability": 0.30},
+    {"name": "Gaming", "priority": 5, "power": 4.0, "probability": 0.40}
+]
